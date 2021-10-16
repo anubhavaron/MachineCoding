@@ -1,0 +1,20 @@
+
+H
+java:S1172"-Remove this unused method parameter "bookId".(§ßÀ•üÿÿÿÿ
+N
+java:S1172",Remove this unused method parameter "title".(Ì‡É¶ÿÿÿÿÿ8×ß²³È/
+M
+java:S1172"1Remove this unused method parameter "authorName".(Šõè|8‹Ð³³È/
+V
+java:S1172"4Remove this unused method parameter "publisherName".(ŒÊÆÕþÿÿÿÿ8Ÿ°´³È/
+C
+java:S1068
+"-Remove this unused "searchDao" private field.(òÿˆþ
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(§ßÀ•üÿÿÿÿ8±´éµÈ/
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ì‡É¶ÿÿÿÿÿ8±´éµÈ/
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Šõè|8±´éµÈ/
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŒÊÆÕþÿÿÿÿ8±´éµÈ/

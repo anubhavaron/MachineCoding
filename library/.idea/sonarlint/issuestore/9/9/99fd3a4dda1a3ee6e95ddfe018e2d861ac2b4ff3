@@ -1,0 +1,6 @@
+
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ö…·Œ
+É
+java:S1319"nThe type of "bookCopiesList" should be an interface such as "List" rather than the implementation "ArrayList".(á©ò
