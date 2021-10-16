@@ -1,0 +1,36 @@
+Actors:
+1. Library Member
+2. System
+
+Main Functionality :
+1. Create library using Racks [1 time]
+2. Add Books and Books Copy [No limit]
+3. Remove Book Copy from Library [No limit]
+4. Borrow a book
+5. Return back a book
+6. Booking details Printing
+7. Search Book Copies
+
+Entities :
+1. LibraryManagementSystem
+2. Book
+3. BookCopy
+4. Rack
+5. User
+
+
+
+Exception :
+1. ReachedMaximumBookedItems
+2. NoBookFoundException
+
+
+Services :
+1. BookSearchService
+2. PrintDetailService
+3. BorrowBookService
+4. ReturnBookService
+
+DataLayer:
+1. SearchLibraryDao // For Easy Access
+2. LibraryManagementDao
