@@ -1,0 +1,8 @@
+1. Given an organisation
+--> Add manager and their employees
+
+
+>>If an employee have > 1 manager, print invalid organisation
+>>If cycle is present in organisation, print invalid organisation
+
+--> Print organisation
